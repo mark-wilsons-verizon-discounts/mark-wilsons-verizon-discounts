@@ -54,7 +54,7 @@ Open an issue. Create a pull request. Sacrifice a comment to the `lol` repo. Eve
 
 ---
 
-> *“Great!” – เจสัน สมิธ, Enlightened User*
+> *“Amazing!” – Դավիթ, Enlightened User*
 
 
 
