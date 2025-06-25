@@ -15,6 +15,11 @@ https://mark-wilsons-verizon-discounts.github.io
 ![Built With](https://img.shields.io/badge/built%20with-love%20%26%20markdown-ff69b4)
 ![Status](https://img.shields.io/badge/status-existential-yellow)
 
+![image](https://github.com/user-attachments/assets/93078201-3bbc-424d-ac6d-8755c5d4a9c7)
+
+<!--https://github.com/orgs/community/discussions/31570-->
+> ### Verizon $$\color{red}{✓}$$ 
+
 
 Welcome to the epicenter of savings, confusion, and possibly enlightenment.
 
