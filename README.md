@@ -22,7 +22,7 @@ This is **Mark Wilson's Verizon Discounts**. We're hosted on GitHub Pages becaus
 
 ## 🚀 About This Project
 
-Hi, I'm Mark. I'm just a humble discount prophet wandering the digital wilderness, offering allegedly unbelievable Verizon savings to the deserving masses. If you're a student, a veteran, or just someone with a vague understanding of HTML, you've come to the right place.
+Hi, I'm Mark. I'm just a humble discount prophet wandering the digital wilderness, offering allegedly unbelievable Verizon savings to the deserving masses. If you're a student, a veteran, or both (especially if you are both), you've come to the right place.
 
 ## 📦 Repositories
 
