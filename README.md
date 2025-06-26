@@ -61,6 +61,11 @@ Open an issue. Create a pull request. Sacrifice a comment to the `lol` repo. Eve
 
 > *“Amazing!” – Դավիթ, Enlightened User*
 
+---
+
+![image](https://github.com/user-attachments/assets/d764abdb-5331-43fe-8d1a-73b188ec64c3)
+
+
 
 
 
