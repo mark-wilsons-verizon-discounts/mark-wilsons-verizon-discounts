@@ -45,7 +45,7 @@ Hi, I'm Mark. I'm just a humble discount prophet wandering the digital wildernes
 * Checkbox-powered coupon stacking (the peak of UX)
 * Avatar image with mysterious implications
 * Hidden div content that's 200vh deep because... why not
-* Imaginary testimonials from people with regal names
+* ~~Imaginary~~ Real testimonials
 
 ## Join the Movement
 
