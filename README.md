@@ -8,7 +8,7 @@ https://mark-wilsons-verizon-discounts.github.io
 ---
 # Mark Wilson's Verizon Discounts
 ![Verizon Approved](https://img.shields.io/badge/discounts-100%25%20real-brightgreen)
-![Savings up to 165%](https://img.shields.io/badge/savings-up_to_165%25-blue?logo=checkmark)
+![Savings up to 165%](https://img.shields.io/badge/savings-up_to_245%25-blue?logo=checkmark)
 ![GitHub Pages](https://img.shields.io/badge/hosted_on-GitHub_Pages-blueviolet)
 ![Commit Frequency](https://img.shields.io/badge/commits-5%2C854%20empty-lightgrey)
 ![License](https://img.shields.io/badge/license-absolutely%20not-red)
