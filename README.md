@@ -68,6 +68,14 @@ Open an issue. Create a pull request. Sacrifice a comment to the `lol` repo. Eve
 
 ---
 
+## In the media
+
+<img width="2340" height="1080" alt="image" src="https://github.com/user-attachments/assets/50d220e7-c9cc-4332-94f5-7448b0c3e9ce" />
+
+https://youtu.be/RP-zs6J6ySw?t=213
+
+## Footer
+
 ![image](https://github.com/user-attachments/assets/d764abdb-5331-43fe-8d1a-73b188ec64c3)
 
 
